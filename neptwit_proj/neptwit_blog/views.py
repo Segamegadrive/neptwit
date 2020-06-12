@@ -3,7 +3,11 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse('<h1>Blog Home</h1>')
+    return render(request, 'neptwit_blog/home.html')
+
+
+def about(request):
+    return render(request, 'neptwit_blog/about.html')
 
 
 
