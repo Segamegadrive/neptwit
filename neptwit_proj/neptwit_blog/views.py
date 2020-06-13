@@ -7,7 +7,7 @@ def index(request):
 
 
 def about(request):
-    return render(request, 'neptwit_blog/about.html')
+    return render(request, 'neptwit_blog/about.html', {'title': 'About'})
 
 
 
