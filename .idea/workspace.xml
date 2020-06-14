@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8a8d8c31-31ac-4de4-8735-da76630219c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/neptwit_proj/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neptwit_proj/neptwit_blog/templates/neptwit_blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/neptwit_blog/templates/neptwit_blog/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neptwit_proj/neptwit_proj/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/neptwit_proj/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neptwit_proj/neptwit_proj/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/neptwit_proj/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neptwit_proj/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/users/templates/users/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neptwit_proj/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neptwit_proj/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neptwit_proj/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neptwit_proj/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/neptwit_proj/users/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +18,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_blog/templates/neptwit_blog/base.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neptwit_proj/users/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+            <state relative-caret-position="100">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_proj/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neptwit_proj/profile_pics/sagarimg.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neptwit_proj/users/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,6 +100,8 @@
         <option value="$PROJECT_DIR$/neptwit_proj/neptwit_blog/templates/neptwit_blog/base.html" />
         <option value="$PROJECT_DIR$/neptwit_proj/users/urls.py" />
         <option value="$PROJECT_DIR$/neptwit_proj/users/views.py" />
+        <option value="$PROJECT_DIR$/neptwit_proj/users/models.py" />
+        <option value="$PROJECT_DIR$/neptwit_proj/users/admin.py" />
         <option value="$PROJECT_DIR$/neptwit_proj/neptwit_proj/settings.py" />
       </list>
     </option>
@@ -94,49 +134,7 @@
               <item name="neptwit" type="b2602c69:ProjectViewProjectNode" />
               <item name="neptwit" type="462c0819:PsiDirectoryNode" />
               <item name="neptwit_proj" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neptwit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neptwit" type="462c0819:PsiDirectoryNode" />
               <item name="neptwit_proj" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neptwit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neptwit" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_proj" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neptwit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neptwit" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_proj" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_proj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neptwit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neptwit" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_proj" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neptwit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neptwit" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_proj" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neptwit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neptwit" type="462c0819:PsiDirectoryNode" />
-              <item name="neptwit_proj" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,16 +241,6 @@
     <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_blog/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_blog/templates/neptwit_blog/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -304,16 +292,6 @@
     <entry file="file://$PROJECT_DIR$/neptwit_proj/users/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/neptwit_proj/users/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/Desktop/neptwit/Lib/site-packages/django/contrib/auth/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4200">
@@ -354,37 +332,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neptwit_proj/users/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_proj/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/neptwit_proj/users/templates/users/profile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neptwit_proj/users/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -402,6 +353,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neptwit_proj/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neptwit_proj/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neptwit_proj/users/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neptwit_proj/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neptwit_proj/profile_pics/sagarimg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neptwit_proj/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neptwit_proj/neptwit_proj/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>
