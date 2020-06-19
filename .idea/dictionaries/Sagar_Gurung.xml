@@ -4,10 +4,13 @@
       <w>elif</w>
       <w>endblock</w>
       <w>endfor</w>
+      <w>gmail</w>
       <w>navbar</w>
       <w>neptwit</w>
       <w>neptwitblog</w>
+      <w>smtp</w>
       <w>toggler</w>
+      <w>uidb</w>
     </words>
   </dictionary>
 </component>
